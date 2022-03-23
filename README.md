@@ -1,6 +1,6 @@
 # Projeto-regressao-com-multiplos-modelos
 
-O objetivo desse projeto foi o de realizar uma breve exploração dos dados para entende-lo e posteriormente buscar o melhor modelo de machine learning para prever a variável MEDV(valor médio das casas), auxiliado pela biblioteca lazypredict e avaliando sua performace por métricas de regressão.
+O objetivo desse projeto é explorar os dados de casas localizadas na Califórnia-EAU e prever o valor médio de casas com uso de algoritmos de Machine Learning.
 
 - regression_project.ipynb jupyter notebook contendo o desenvolvimento do projeto
-- houses.csv data set utilizado
+- houses.csv dataset utilizado
